@@ -89,6 +89,7 @@
 		background-size: 100px 100px, cover,				cover;
 		background-position: top left,		center center,		bottom center;
 		background-attachment: fixed,			fixed,				fixed;*/
+		background-repeat: no-repeat;
 		background-position: bottom center;
 		background-attachment: fixed;
 		
@@ -111,6 +112,7 @@
 			background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
 			background-repeat: repeat,			no-repeat;
 			background-size: 100px 100px, cover;*/
+			background-repeat: no-repeat;
 			background-position: bottom center;
 			background-attachment: fixed;
 			-moz-transition: opacity 1.75s ease-out;

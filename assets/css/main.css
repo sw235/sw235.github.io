@@ -90,8 +90,9 @@
 		background-position: top left,		center center,		bottom center;
 		background-attachment: fixed,			fixed,				fixed;*/
 		background-repeat: no-repeat;
-		background-position: bottom center;
 		background-attachment: fixed;
+		background-position: bottom center;
+		
 		
 	}
 
@@ -113,8 +114,8 @@
 			background-repeat: repeat,			no-repeat;
 			background-size: 100px 100px, cover;*/
 			background-repeat: no-repeat;
-			background-position: bottom center;
 			background-attachment: fixed;
+			background-position: bottom center;
 			-moz-transition: opacity 1.75s ease-out;
 			-webkit-transition: opacity 1.75s ease-out;
 			-ms-transition: opacity 1.75s ease-out;
